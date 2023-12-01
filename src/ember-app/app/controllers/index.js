@@ -22,37 +22,37 @@ export default Controller.extend({
             link: 'i-i-s-konechnyjj-tochno-целевая-аудит-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-целевая-аудит-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-целевая-аудит-l.title'),
-            icon: 'briefcase',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-konechnyjj-tochno-спрос-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-спрос-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-спрос-l.title'),
-            icon: 'edit',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-konechnyjj-tochno-персонал-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-персонал-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-персонал-l.title'),
-            icon: 'archive',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-konechnyjj-tochno-должность-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-должность-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-должность-l.title'),
-            icon: 'book',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-konechnyjj-tochno-маркетолог-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-маркетолог-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-маркетолог-l.title'),
-            icon: 'table',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-konechnyjj-tochno-основ-показат-l',
             caption: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-основ-показат-l.caption'),
             title: i18n.t('forms.application.sitemap.konechnyjj-tochno.i-i-s-konechnyjj-tochno-основ-показат-l.title'),
-            icon: 'edit',
+            icon: 'tags',
             children: null
           }]
         }
