@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-konechnyjj-tochno-спрос-e",
+  "editForm": "i-i-s-konechnyjj-tochno-спрос-e",
+  "external": false,
+  "caption": "Спрос",
+  "name": "IISKonechnyjjTochnoСпросL",
+  "className": "СпросL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-спрос",
+      "modelProjection": "СпросL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-konechnyjj-tochno-основ-показат-e",
+  "editForm": "i-i-s-konechnyjj-tochno-основ-показат-e",
+  "external": false,
+  "caption": "Основ показат",
+  "name": "IISKonechnyjjTochnoОсновПоказатL",
+  "className": "ОсновПоказатL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-основ-показат",
+      "modelProjection": "ОсновПоказатL"
+    }
+  ]
+}

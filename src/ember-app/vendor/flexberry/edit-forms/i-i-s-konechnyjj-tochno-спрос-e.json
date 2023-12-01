@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Спрос",
+  "name": "IISKonechnyjjTochnoСпросE",
+  "className": "СпросE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-спрос",
+      "modelProjection": "СпросE"
+    }
+  ]
+}

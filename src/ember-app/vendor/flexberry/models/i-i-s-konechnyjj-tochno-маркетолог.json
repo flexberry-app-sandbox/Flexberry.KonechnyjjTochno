@@ -1,0 +1,38 @@
+﻿{
+  "name": "IISKonechnyjjTochnoМаркетолог",
+  "modelName": "i-i-s-konechnyjj-tochno-маркетолог",
+  "className": "Маркетолог",
+  "nameSpace": "IIS.KonechnyjjTochno",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "персонал",
+      "relatedTo": "i-i-s-konechnyjj-tochno-персонал",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "МаркетологE",
+      "modelName": "i-i-s-konechnyjj-tochno-маркетолог",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "МаркетологL",
+      "modelName": "i-i-s-konechnyjj-tochno-маркетолог",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

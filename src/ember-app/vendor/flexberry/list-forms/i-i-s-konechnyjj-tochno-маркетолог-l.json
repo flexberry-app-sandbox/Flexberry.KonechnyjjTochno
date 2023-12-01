@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-konechnyjj-tochno-маркетолог-e",
+  "editForm": "i-i-s-konechnyjj-tochno-маркетолог-e",
+  "external": false,
+  "caption": "Маркетолог",
+  "name": "IISKonechnyjjTochnoМаркетологL",
+  "className": "МаркетологL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-маркетолог",
+      "modelProjection": "МаркетологL"
+    }
+  ]
+}

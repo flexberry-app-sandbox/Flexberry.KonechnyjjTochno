@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Konechnyjj tochno",
+  "applicationTitle": "Konechnyjj tochno",
+  "items": [
+    {
+      "link": null,
+      "menuName": "konechnyjj-tochno",
+      "caption": "KonechnyjjTochno",
+      "title": "KonechnyjjTochno",
+      "children": [
+        {
+          "link": "i-i-s-konechnyjj-tochno-целевая-аудит-l",
+          "menuName": null,
+          "caption": "Целевая аудит",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-konechnyjj-tochno-спрос-l",
+          "menuName": null,
+          "caption": "Спрос",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-konechnyjj-tochno-персонал-l",
+          "menuName": null,
+          "caption": "Персонал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-konechnyjj-tochno-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-konechnyjj-tochno-маркетолог-l",
+          "menuName": null,
+          "caption": "Маркетолог",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-konechnyjj-tochno-основ-показат-l",
+          "menuName": null,
+          "caption": "Основ показат",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

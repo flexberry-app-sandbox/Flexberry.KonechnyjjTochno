@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Маркетолог",
+  "name": "IISKonechnyjjTochnoМаркетологE",
+  "className": "МаркетологE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-маркетолог",
+      "modelProjection": "МаркетологE"
+    }
+  ]
+}

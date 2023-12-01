@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-konechnyjj-tochno-целевая-аудит-e",
+  "editForm": "i-i-s-konechnyjj-tochno-целевая-аудит-e",
+  "external": false,
+  "caption": "Целевая аудит",
+  "name": "IISKonechnyjjTochnoЦелеваяАудитL",
+  "className": "ЦелеваяАудитL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-целевая-аудит",
+      "modelProjection": "ЦелеваяАудитL"
+    }
+  ]
+}

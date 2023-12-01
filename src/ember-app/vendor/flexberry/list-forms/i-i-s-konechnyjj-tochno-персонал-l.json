@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-konechnyjj-tochno-персонал-e",
+  "editForm": "i-i-s-konechnyjj-tochno-персонал-e",
+  "external": false,
+  "caption": "Персонал",
+  "name": "IISKonechnyjjTochnoПерсоналL",
+  "className": "ПерсоналL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-konechnyjj-tochno-персонал",
+      "modelProjection": "ПерсоналL"
+    }
+  ]
+}
